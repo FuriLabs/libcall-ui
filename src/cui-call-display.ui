@@ -67,6 +67,11 @@
                           <class name="dim-label"/>
                         </style>
                       </object>
+                      <object class="CuiVolteIndicator" id="volte_indicator">
+                        <style>
+                          <class name="dim-label"/>
+                        </style>
+                      </object>
                     </child>
                   </object>
                 </child>
